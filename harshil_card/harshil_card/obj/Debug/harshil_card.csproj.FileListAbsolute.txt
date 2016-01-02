@@ -1,0 +1,9 @@
+C:\Users\Harshin\Documents\Visual Studio 2012\Projects\harshil_card\harshil_card\bin\Debug\harshil_card.exe.config
+C:\Users\Harshin\Documents\Visual Studio 2012\Projects\harshil_card\harshil_card\obj\Debug\harshil_card.exe
+C:\Users\Harshin\Documents\Visual Studio 2012\Projects\harshil_card\harshil_card\obj\Debug\harshil_card.pdb
+C:\Users\Harshin\Documents\Visual Studio 2012\Projects\harshil_card\harshil_card\bin\Debug\harshil_card.exe
+C:\Users\Harshin\Documents\Visual Studio 2012\Projects\harshil_card\harshil_card\bin\Debug\harshil_card.pdb
+C:\Users\Harshin\Documents\Visual Studio 2012\Projects\harshil_card\harshil_card\obj\Debug\harshil_card.csprojResolveAssemblyReference.cache
+C:\Users\Harshin\Documents\Visual Studio 2012\Projects\harshil_card\harshil_card\obj\Debug\harshil_card.Form1.resources
+C:\Users\Harshin\Documents\Visual Studio 2012\Projects\harshil_card\harshil_card\obj\Debug\harshil_card.Properties.Resources.resources
+C:\Users\Harshin\Documents\Visual Studio 2012\Projects\harshil_card\harshil_card\obj\Debug\harshil_card.csproj.GenerateResource.Cache
